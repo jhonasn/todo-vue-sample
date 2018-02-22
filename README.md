@@ -1,6 +1,6 @@
 # todo-vue-sample
 
-> A vue.js todo list sample project
+> A very simple vue.js todo list sample project using ES2015+ (babel), webpack and eslint using [standard.js rules](https://github.com/standard/standard).
 
 ## Build Setup
 
